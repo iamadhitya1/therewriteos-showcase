@@ -151,7 +151,7 @@ The OS is where readers of the newsletter and book come to apply what they've le
 
 The source code for this project is kept **private** as it is part of an active commercial product.
 
-If you are a recruiter, collaborator, or investor interested in reviewing the codebase, please reach out via [LinkedIn](https://www.linkedin.com/in/loveadhitya/).
+If you are a recruiter, collaborator, or investor interested in reviewing the codebase, please reach out via [LinkedIn](https://www.linkedin.com/in/iamadhitya/).
 
 ---
 
@@ -161,6 +161,6 @@ If you are a recruiter, collaborator, or investor interested in reviewing the co
 
 > *"Your mind is the most powerful system you'll ever operate. It's time you learned to master it."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loveadhitya/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamadhitya/)
 [![Rewrite Labs](https://img.shields.io/badge/Rewrite%20Labs-rewrite--labs.netlify.app-39FF14?style=flat-square)](https://rewrite-labs.netlify.app/)
 [![Newsletter](https://img.shields.io/badge/Newsletter-Code%20%26%20Context-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/7409533765632421888/)
